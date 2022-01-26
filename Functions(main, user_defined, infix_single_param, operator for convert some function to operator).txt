@@ -1,0 +1,44 @@
+
+// fun sum(x:Int, y:Int):Int{
+//     return x+y;
+// }
+
+// fun mul(x:Int, y:Int) = x*y
+
+// fun printMessage(message:String, prefix:String = "Hello") = "$prefix ${message}"
+
+fun main() {  
+//     val str = "Hello Amir";
+    // 2
+//     operator fun Int.times(str:String)=str.repeat(this)
+//     operator fun String.get(range: IntRange) = this.substring(range)
+//     println(2*"Hello, World!")        // * is times function
+//     println(sum(4,3))
+//     println(mul(2,5))
+//     println(printMessage(message="World", prefix="Bye"))
+//     println(str[0 .. 4]) // if you get range then this function will be called
+    // Infix Function
+    
+//     infix fun Int.div(num:Int) = this/num
+//     println(45 div 5)
+    
+//     infix fun Int.times(str:String) = str.repeat(this)
+//     println(2 times "Hello")
+//    val str = "Amir Ali" 
+//    operator fun String.get(number : IntRange) = "This is Your Character: "+number
+//    println(str[0..10])
+    
+//     Variable Parameters
+	   
+   // fun sum(vararg numbers:Int){
+//         var summ=0;
+//         for(num in numbers){
+//             summ+= num;
+//         }
+        println(numbers)
+//         println(numbers)
+//         return 0;
+//}
+    
+    /*println(sum(1,9,10))*/
+   

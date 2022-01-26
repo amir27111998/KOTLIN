@@ -1,0 +1,6 @@
+var b:String = "Amir"
+    var c = true
+    val g:String
+    g="Hello"
+    b+=" Ali"
+    println("$b, $c, $g")
